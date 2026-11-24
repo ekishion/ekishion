@@ -8,4 +8,4 @@
 
 `Vue` · `Nuxt` · `TypeScript` · `Tailwind CSS` · `Go` · `WebAssembly`
 
-- 🌐 [eki.ink](https://eki.ink) · 📬 [eki@eki.ink](mailto:eki@eki.ink)
+- 🌐 [eki.ink](https://eki.ink) · 📬 [hello@eki.ink](mailto:eki@eki.ink)
